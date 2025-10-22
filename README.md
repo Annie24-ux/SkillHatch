@@ -26,7 +26,7 @@ It allows users to record, track, and update their personal and professional ski
 - Spring Web
 - Spring Boot DevTools
 - Spring Data JPA
-- MySQL Driver
+- MySQL Driver/ MyQSL
 - Spring Security
 - Validation
 - Lombok
