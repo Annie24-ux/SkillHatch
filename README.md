@@ -38,5 +38,5 @@ It allows users to record, track, and update their personal and professional ski
 ## ⚡ Setup Instructions
 1. Clone the repo
    ```bash
-   git clone https://github.com/Annie24-ux/skillhatch.git
+   git clone https://github.com/Annie24-ux/Skillhatch.git
    cd skillhatch
