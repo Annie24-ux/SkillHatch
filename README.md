@@ -40,3 +40,5 @@ It allows users to record, track, and update their personal and professional ski
    ```bash
    git clone https://github.com/Annie24-ux/Skillhatch.git
    cd skillhatch
+   
+2. Navigate through microservices.
